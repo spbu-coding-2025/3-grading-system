@@ -24,3 +24,7 @@
 	path = 3-Makuhin-Egor
 	url = https://github.com/spbu-coding-2025/3-Makuhin-Egor.git
 	branch = main
+[submodule "3-RomanKazz"]
+	path = 3-RomanKazz
+	url = https://github.com/spbu-coding-2025/3-RomanKazz.git
+	branch = main
