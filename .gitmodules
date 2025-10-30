@@ -8,3 +8,7 @@
 	path = 3-DenisPotapov0
 	url = https://github.com/spbu-coding-2025/3-DenisPotapov0.git
 	branch = main
+[submodule "3-Esoteria11"]
+	path = 3-Esoteria11
+	url = https://github.com/spbu-coding-2025/3-Esoteria11.git
+	branch = main
