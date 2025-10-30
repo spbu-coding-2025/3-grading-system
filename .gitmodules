@@ -32,3 +32,7 @@
 	path = 3-altrum06
 	url = https://github.com/spbu-coding-2025/3-altrum06.git
 	branch = main
+[submodule "3-danisaev"]
+	path = 3-danisaev
+	url = https://github.com/spbu-coding-2025/3-danisaev.git
+	branch = main
