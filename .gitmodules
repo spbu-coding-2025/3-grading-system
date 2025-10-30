@@ -60,3 +60,7 @@
 	path = 3-narysh
 	url = https://github.com/spbu-coding-2025/3-narysh.git
 	branch = main
+[submodule "3-taymanov-bn"]
+	path = 3-taymanov-bn
+	url = https://github.com/spbu-coding-2025/3-taymanov-bn.git
+	branch = main
