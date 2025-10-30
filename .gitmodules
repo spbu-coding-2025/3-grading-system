@@ -40,3 +40,7 @@
 	path = 3-e-leshnik
 	url = https://github.com/spbu-coding-2025/3-e-leshnik.git
 	branch = main
+[submodule "3-gorbuzova"]
+	path = 3-gorbuzova
+	url = https://github.com/spbu-coding-2025/3-gorbuzova.git
+	branch = main
