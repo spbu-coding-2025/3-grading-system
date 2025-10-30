@@ -56,3 +56,7 @@
 	path = 3-lupusarqentum
 	url = https://github.com/spbu-coding-2025/3-lupusarqentum.git
 	branch = main
+[submodule "3-narysh"]
+	path = 3-narysh
+	url = https://github.com/spbu-coding-2025/3-narysh.git
+	branch = main
