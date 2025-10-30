@@ -4,3 +4,7 @@
 [submodule "3-grading-tests"]
 	path = 3-grading-tests
 	url = git@github.com:spbu-coding-2025/3-grading-tests.git
+[submodule "3-DenisPotapov0"]
+	path = 3-DenisPotapov0
+	url = https://github.com/spbu-coding-2025/3-DenisPotapov0.git
+	branch = main
