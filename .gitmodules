@@ -12,3 +12,7 @@
 	path = 3-Esoteria11
 	url = https://github.com/spbu-coding-2025/3-Esoteria11.git
 	branch = main
+[submodule "3-GRIGAeo"]
+	path = 3-GRIGAeo
+	url = https://github.com/spbu-coding-2025/3-GRIGAeo.git
+	branch = main
