@@ -108,3 +108,7 @@
 	path = 3-LinaraSun
 	url = https://github.com/spbu-coding-2025/3-LinaraSun.git
 	branch = main
+[submodule "3-Lizavod"]
+	path = 3-Lizavod
+	url = https://github.com/spbu-coding-2025/3-Lizavod.git
+	branch = main
