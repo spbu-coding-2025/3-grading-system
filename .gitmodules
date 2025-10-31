@@ -128,3 +128,7 @@
 	path = 3-Prosto-Dan
 	url = https://github.com/spbu-coding-2025/3-Prosto-Dan.git
 	branch = main
+[submodule "3-RannyayaAnastasia"]
+	path = 3-RannyayaAnastasia
+	url = https://github.com/spbu-coding-2025/3-RannyayaAnastasia.git
+	branch = main
