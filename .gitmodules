@@ -112,3 +112,7 @@
 	path = 3-Lizavod
 	url = https://github.com/spbu-coding-2025/3-Lizavod.git
 	branch = main
+[submodule "3-LuhTonkaYeat"]
+	path = 3-LuhTonkaYeat
+	url = https://github.com/spbu-coding-2025/3-LuhTonkaYeat.git
+	branch = main
