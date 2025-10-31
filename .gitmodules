@@ -120,3 +120,7 @@
 	path = 3-Maxdess067
 	url = https://github.com/spbu-coding-2025/3-Maxdess067.git
 	branch = main
+[submodule "3-Maxllon"]
+	path = 3-Maxllon
+	url = https://github.com/spbu-coding-2025/3-Maxllon.git
+	branch = main
