@@ -64,3 +64,7 @@
 	path = 3-taymanov-bn
 	url = https://github.com/spbu-coding-2025/3-taymanov-bn.git
 	branch = main
+[submodule "3-A-Sozonov"]
+	path = 3-A-Sozonov
+	url = https://github.com/spbu-coding-2025/3-A-Sozonov.git
+	branch = main
