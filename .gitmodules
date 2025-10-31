@@ -144,3 +144,7 @@
 	path = 3-arinamklvch
 	url = https://github.com/spbu-coding-2025/3-arinamklvch.git
 	branch = main
+[submodule "3-dem0phob1a"]
+	path = 3-dem0phob1a
+	url = https://github.com/spbu-coding-2025/3-dem0phob1a.git
+	branch = main
