@@ -136,3 +136,7 @@
 	path = 3-Redkin-Aleksey
 	url = https://github.com/spbu-coding-2025/3-Redkin-Aleksey.git
 	branch = main
+[submodule "3-Vlm326"]
+	path = 3-Vlm326
+	url = https://github.com/spbu-coding-2025/3-Vlm326.git
+	branch = main
