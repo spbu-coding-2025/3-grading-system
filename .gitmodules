@@ -168,3 +168,7 @@
 	path = 3-qwerty787878
 	url = https://github.com/spbu-coding-2025/3-qwerty787878.git
 	branch = main
+[submodule "3-AnastasiyaMedentseva"]
+	path = 3-AnastasiyaMedentseva
+	url = https://github.com/spbu-coding-2025/3-AnastasiyaMedentseva.git
+	branch = main
