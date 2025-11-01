@@ -176,3 +176,7 @@
 	path = 3-OZDOEV-AI
 	url = https://github.com/spbu-coding-2025/3-OZDOEV-AI.git
 	branch = main
+[submodule "3-aleksandrgarin"]
+	path = 3-aleksandrgarin
+	url = https://github.com/spbu-coding-2025/3-aleksandrgarin.git
+	branch = main
