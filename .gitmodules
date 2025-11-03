@@ -188,3 +188,7 @@
 	path = 3-atsa111
 	url = https://github.com/spbu-coding-2025/3-atsa111.git
 	branch = main
+[submodule "3-agresh775"]
+	path = 3-agresh775
+	url = https://github.com/spbu-coding-2025/3-agresh775.git
+	branch = main
