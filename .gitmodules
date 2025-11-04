@@ -212,3 +212,7 @@
 	path = 3-OmfavneAvSkogen
 	url = https://github.com/spbu-coding-2025/3-OmfavneAvSkogen.git
 	branch = main
+[submodule "3-Ramenart"]
+	path = 3-Ramenart
+	url = https://github.com/spbu-coding-2025/3-Ramenart.git
+	branch = main
