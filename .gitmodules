@@ -216,3 +216,7 @@
 	path = 3-Ramenart
 	url = https://github.com/spbu-coding-2025/3-Ramenart.git
 	branch = main
+[submodule "3-diegoroflan"]
+	path = 3-diegoroflan
+	url = https://github.com/spbu-coding-2025/3-diegoroflan.git
+	branch = main
