@@ -228,3 +228,7 @@
 	path = 3-wydfiy
 	url = https://github.com/spbu-coding-2025/3-wydfiy.git
 	branch = main
+[submodule "3-davidgordievskij07-cmd"]
+	path = 3-davidgordievskij07-cmd
+	url = https://github.com/spbu-coding-2025/3-davidgordievskij07-cmd.git
+	branch = main
